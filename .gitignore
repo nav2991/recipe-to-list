@@ -26,3 +26,53 @@ dist-ssr
 # Python virtual environments
 venv/
 .venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eg gs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Databases
+*.db
+*.sqlite3
+
+# OS
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
